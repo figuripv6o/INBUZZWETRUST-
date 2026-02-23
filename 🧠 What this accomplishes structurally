@@ -1,0 +1,8 @@
+payload = {
+    "iss": "BuzzCoinAuthority",
+    "sub": identity_id,
+    "authority": "figuripv6o",
+    "genesis": "InBuzzWeTrust",
+    "epoch": epoch,
+    "exp": int(time.time()) + 300
+}
