@@ -1,0 +1,7 @@
+GENESIS_BLOCK = {
+    "epoch": 0,
+    "timestamp": "2026-02-22T00:00:00Z",
+    "authority": "figuripv6o",
+    "message": "InBuzzWeTrust",
+    "integrity_hash": "GENESIS_BUZZ_SEAL"
+}
